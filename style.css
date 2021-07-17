@@ -1,0 +1,175 @@
+.container{
+    background-color: black;
+
+}
+#navbar{
+    background-color: black;
+    position: sticky;
+    top:0;
+    opacity: 5;
+}
+#links a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    margin: 20px 0px;
+    text-align: center;
+    padding: 10px 10px;
+}
+#links a:hover{
+    color:white;
+    background-color:black;
+    border: solid;
+    font-size:medium;
+    border-radius: 30%
+}
+.col-md-1{
+    color: white;
+    margin: 20px 0px;
+    border: 5px solid black;
+    padding: 10px 10px;
+}
+
+.name{
+    color:white;
+    text-align:center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: xx-large;
+}
+span{
+    font-style: italic;
+}
+.logo{
+    height:200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 20px;
+}
+#home{
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    border: 3px solid black;
+    word-wrap: break-word;
+}
+h5{
+    font-size: 30px;
+}
+p{
+    font-style: italic;
+}
+button{
+    color: white;
+    background-color: black;
+    font-size: medium;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+    text-decoration: underline;
+}
+
+#aboutme{
+    font-size: x-large;
+    word-wrap: break-word;
+}
+.me{
+    color: white;
+}
+.photo{
+   height:300px;
+   width: 300px;
+   display: block; 
+   padding: 10px 10px;
+   border-radius:150px;
+}
+
+#work{
+    background-color:white;
+    word-wrap: break-word;
+}
+#portfolio{
+    color: black;
+    text-align: left;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+}
+.web{
+    color: gray;
+    font-style: italic;
+    text-align: left;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+#info{
+    background-color:white;
+    padding: 10px;
+}
+.pic{
+    height:300px;
+    width: 300px;
+   display: block; 
+   border:5px solid white 
+}
+h3{
+    color: white;
+    text-align:center;
+    font-family: "Times New Roman", Times, serif;
+}
+.hire{
+    text-align: center;
+    font-size: x-large;
+    color:grey
+}
+#to-hire{
+    text-align: center;
+}
+
+.email{
+    width:200px;
+    text-align: center;
+    border:  1px solid black;
+    
+}
+.hireme{
+    border: 1px solid white;
+    width: 100px;;
+    text-align: center;
+    word-wrap: break-word;
+    
+
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+.fa-linkedin {
+    background: black;
+    color: white;
+}
+.fa-facebook {
+    background: black;
+    color: white;
+  }
+.fa-github {
+    background:black;
+    color: white;
+}
+.fa-instagram {
+    background: black;
+    color: white;
+}
+#footer{
+    background-color: black;
+}
